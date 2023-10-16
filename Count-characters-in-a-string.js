@@ -15,3 +15,5 @@ function count(string) {
   });
   return count;
 }
+
+// or
